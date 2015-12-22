@@ -140,10 +140,10 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        Laravento\Providers\AppServiceProvider::class,
+        Laravento\Providers\AuthServiceProvider::class,
+        Laravento\Providers\EventServiceProvider::class,
+        Laravento\Providers\RouteServiceProvider::class,
 
     ],
 

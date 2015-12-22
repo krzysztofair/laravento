@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace Laravento\Events;
 
 abstract class Event
 {
